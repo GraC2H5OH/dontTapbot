@@ -1,2 +1,2 @@
 # dontTapbot
-bot
+http://www.donttap.com/
